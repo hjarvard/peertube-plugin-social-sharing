@@ -51,5 +51,13 @@
   {
     "label": "MeWe",
     "sharerLink": "https://mewe.com/share?link=%link"
+  },
+  {
+    "label": "Одноклассники",
+    "sharerLink": "https://connect.ok.ru/offer?url=%link&title=%body"
+  },
+  {
+    "label": "Вконтакте",
+    "sharerLink": "https://vk.com/share.php?url=%link"
   }
 ]
