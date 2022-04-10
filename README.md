@@ -33,6 +33,8 @@ Since v0.9.0 the service list displayed can be filtered via the **plugin setting
 - LinkedIn
 - Gab
 - MeWe
+- Odnoklassniki
+- Vkontakte
 
 🙋 If you want to add a service, you may request it into an issue.
 
