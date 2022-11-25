@@ -154,7 +154,8 @@ async function buildModal ({ title, icon, link }) {
 
 async function displayButtons (tabContent) {
   // Get input link element
-  const inputLinkElement = tabContent.querySelector('my-input-toggle-hidden input, my-input-readonly-copy input') // my-input-readonly-copy is for backward compatibility
+  const inputLinkElement = tabContent.querySelector('my-input-text input, my-input-toggle-hidden input, my-input-readonly-copy input')
+  // my-input-readonly-copy and my-input-toggle-hidden are for backward compatibility
 
   // Source title to share
   let sourceTitle
